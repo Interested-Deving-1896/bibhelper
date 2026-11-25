@@ -72,7 +72,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | Contributor | Commits |
 |---|---|
 | [@aplund](https://github.com/aplund) | 103 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 101 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 102 |
 <!-- AI:end:contributors -->
 
 ## Origins
@@ -90,7 +90,7 @@ _No additional resource files found._
 ## Accessibility
 
 <!-- AI:start:accessibility -->
-No  was found when this README was generated. Check the
+No `accessibility-report.json` was found when this README was generated. Check the
 [Actions tab](https://github.com/Interested-Deving-1896/bibhelper/actions) for repository-specific checks, and document an
 accessibility status only when a report or workflow provides evidence for it.
 
